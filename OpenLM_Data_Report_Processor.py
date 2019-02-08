@@ -26,9 +26,13 @@ def main():
     for field in new_fields:
         master_df[field] = generic_series
 
+    # NOTE: When i try to use f strings or .format to form the concatenated values I encounter weird results.
     # Calculate Product_Workstation field
-    master_df["Product_Workstation"] = master_df["Product"] + master_df["Workstation"]
+    master_df["Product_Workstation"] = master_df["Product"] + "_" + master_df["Workstation"]
+
     # Calculate Product_Username field
+    master_df["Product_Username"] = master_df["Product"] + "_" + master_df["User Name"]
+
     # Calculate Date field
     # Calculate Agency field
 
@@ -38,8 +42,10 @@ def main():
 
     # Sanity checks
     print(master_df_slim.info())
-    print(master_df_slim.head())
-    print(master_df_slim["Product_Workstation"])
+    # print(master_df_slim.head())
+    print(master_df_slim["Product_Workstation"].head())
+    print()
+    print(master_df_slim["Product_Username"].head())
 
 
 

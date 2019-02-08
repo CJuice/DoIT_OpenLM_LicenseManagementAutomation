@@ -2,5 +2,5 @@
 *.xlsx
 *.csv
 *.idea
-
+*PatsOldProcess
 .idea/vcs.xml
