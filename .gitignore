@@ -1,0 +1,6 @@
+
+*.xlsx
+*.csv
+*.idea
+
+.idea/vcs.xml
