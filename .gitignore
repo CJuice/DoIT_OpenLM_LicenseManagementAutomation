@@ -2,5 +2,10 @@
 *.xlsx
 *.csv
 *.idea
+*.py
 *PatsOldProcess
 .idea/vcs.xml
+PatsOriginalFunction.py
+OpenLM_Data_Report_Processor.py
+Dev_FirebirdPlay.py
+README.txt
