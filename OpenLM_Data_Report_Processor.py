@@ -1,4 +1,6 @@
 """
+ABANDONED FOR JUPYTER NOTEBOOK DESIGN 20190221 CJUICE
+
 Process data on ArcGIS license usage in report from OpenLM and write to Excel file sheets per and for Power BI Team.
 
 """
