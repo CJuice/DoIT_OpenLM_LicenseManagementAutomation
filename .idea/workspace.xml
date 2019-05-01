@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f7963df-4202-4dc0-bfb0-18f5756ddbaf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/OpenLM_Production_Process-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/OpenLM_Production_Process-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/OpenLM_Production_Process_Update20190430-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/OpenLM_Production_Process_Update20190430-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OpenLM_Production_Process.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLM_Production_Process.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenLM_Production_Process_Update20190430.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLM_Production_Process_Update20190430.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,6 +69,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,7 +150,7 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="17" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1369863" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2081138" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -162,7 +161,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30877572" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30877572" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.18743229" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -211,7 +210,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenLM_Production_Process.ipynb" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -234,6 +232,13 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/jupyter/runtime/nbserver-1456-open.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenLM_Production_Process.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="65" column="138" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="138" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
